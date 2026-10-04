@@ -234,6 +234,6 @@ Business Insights
 
 ## 👤 Author
 
-**Sangeeth KS**
+**Malavika PM**
 
-Senior Software Engineer \| Frontend / Full-Stack Developer
+Data Analyst
